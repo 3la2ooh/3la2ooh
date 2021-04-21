@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3la2ooh
-- 👀 I’m interested in web development and app development
+- 👀 I’m interested in web development and mobile app development
 - 💪 I have some experience with Angular, Firebase and MongoDB
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me by email: alkhateralaa@outlook.com
